@@ -1,0 +1,4 @@
+REM example physical password key.
+STRING correcthorsebatterystaple
+ENTER
+DELAY 80
